@@ -1,7 +1,9 @@
 ## Instalación
 
 ```bash
-curl -O https://raw.githubusercontent.com/marc-carmona/wireguard/master/wireguard.sh
+sudo su -
+
+curl -O https://raw.githubusercontent.com/marc-carmona/wireguard/master/wireguard-install.sh
 
 chmod +x wireguard-install.sh
 
